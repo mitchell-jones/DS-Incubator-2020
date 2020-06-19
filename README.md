@@ -4,7 +4,7 @@ We're a group of college students who met through LinkedIn because of a shared i
 
 # Project Goals
 Over the course of the summer, we'd like to create a diverse portfolio of Data Science projects with topics including:<br>
-Exploratory Data Analysis <br>Text Classification <br> Machine Learning / Predictive Modeling <br>Movie Recommendation
+Exploratory Data Analysis <br>Text Classification <br> Machine Learning / Predictive Modeling <br>Movie Recommendation<br>Text Generation
 
 # Source Data
 Our source data comes from: https://www.kaggle.com/rounakbanik/the-movies-dataset/data?select=movies_metadata.csv
